@@ -1,8 +1,8 @@
 .data
-	a1: .double 1.0, 2.0
-	a2: .double 3.0, 4.0
-	b1: .double 5.0, 6.0
-	b2: .double 7.0, 8.0
+	a1: .double 1.12, 2.12
+	a2: .double 3.12, 4.12
+	b1: .double 5.12, 6.12
+	b2: .double 7.12, 8.12
 	c1: .double 0.0, 0.0
 	c2: .double 0.0, 0.0
 .text
