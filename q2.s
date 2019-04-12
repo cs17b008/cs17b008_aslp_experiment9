@@ -1,8 +1,8 @@
 .data
-	a1: .float 1.0, 2.0
-	a2: .float 3.0, 4.0
-	b1: .float 5.0, 5.0
-	b2: .float 7.0, 8.0
+	a1: .float 1.1, 2.1
+	a2: .float 3.1, 4.1
+	b1: .float 5.1, 5.1
+	b2: .float 7.1, 8.1
 	c1: .float 0.0, 0.0
 	c2: .float 0.0, 0.0
 .text
